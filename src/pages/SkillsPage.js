@@ -41,7 +41,13 @@ const SkillsPage = () => {
         <SwiperSlide>
           <div className="slide-wrapper">
             <h1 className="slide-title">Pokemons Catalog</h1>
-            <img src={pokemons} alt="pokemons" className="img-skills" />
+            <img
+              src={pokemons}
+              alt="pokemons"
+              className="img-skills"
+              width="980"
+              height="480"
+            />
             <p className="slide-desc">
               Project with your favorite Pokemon! Just use the button and you'll
               get new pokemon. You can also use search to find your pokemon
@@ -65,7 +71,13 @@ const SkillsPage = () => {
         <SwiperSlide>
           <div className="slide-wrapper">
             <h1 className="slide-title">Budget App</h1>
-            <img src={budget} alt="budget" className="img-skills" />
+            <img
+              src={budget}
+              alt="budget"
+              className="img-skills"
+              width="980"
+              height="480"
+            />
             <p className="slide-desc">
               Budget application. You can add your incomes and expenses, in case
               of a mistake, edit the funds already added. Are you also waiting
@@ -89,7 +101,13 @@ const SkillsPage = () => {
         <SwiperSlide>
           <div className="slide-wrapper">
             <h1 className="slide-title">Sketchbook</h1>
-            <img src={sketchbook} alt="sketchbook" className="img-skills" />
+            <img
+              src={sketchbook}
+              alt="sketchbook"
+              className="img-skills"
+              width="980"
+              height="480"
+            />
             <p className="slide-desc">
               A sketchbook created thanks to the p5.js library. Of course, it's
               not as great an app as Paint, but still it does provide a moment
@@ -118,7 +136,13 @@ const SkillsPage = () => {
         <SwiperSlide>
           <div className="slide-wrapper">
             <h1 className="slide-title">Timer-Alarm</h1>
-            <img src={alarm} alt="alarm" className="img-skills" />
+            <img
+              src={alarm}
+              alt="alarm"
+              className="img-skills"
+              width="980"
+              height="480"
+            />
             <p className="slide-desc">
               Timer with alarm clock setting. Now you can always put the
               potatoes on the gas or count down to an important meeting. With
@@ -146,6 +170,8 @@ const SkillsPage = () => {
               src={programming}
               alt="alarm"
               className="img-skills img-skills--last"
+              width="980"
+              height="480"
             />
             <p className="slide-desc">
               On my github account you will find other projects that I do. I use

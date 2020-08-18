@@ -35,7 +35,13 @@ const AboutPage = () => {
             </p>
           </div>
         </div>
-        <img src={mockup} alt="mockup" className="mockup" />
+        <img
+          src={mockup}
+          alt="mockup"
+          className="mockup"
+          width="600"
+          height="600"
+        />
       </div>
     </>
   );

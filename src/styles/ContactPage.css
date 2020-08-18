@@ -49,6 +49,11 @@ form {
   border-bottom: 0.3rem solid goldenrod;
 }
 
+.textarea__contact:focus {
+  outline: none;
+  border-bottom: 0.3rem solid goldenrod;
+}
+
 .input__label {
   font-size: 1.2rem;
   position: absolute;

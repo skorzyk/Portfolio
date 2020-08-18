@@ -131,11 +131,21 @@ class ContactPage extends React.Component {
           <div className="medias__contact">
             <div className="single__contact">
               <i class="fas fa-envelope-open-text"></i>
-              <p className="contact__desc">skorzynskikamil@gmail.com</p>
+              <a
+                href="mailto:skorzynskikamil@gmail.com"
+                className="contact__desc contact__desc--link"
+              >
+                skorzynskikamil@gmail.com
+              </a>
             </div>
             <div className="single__contact">
               <i class="fas fa-phone-volume"></i>
-              <p className="contact__desc">794-198-169</p>
+              <a
+                href="tel:794-198-169"
+                className="contact__desc contact__desc--link"
+              >
+                794-198-169
+              </a>
             </div>
             <div className="single__contact">
               <i class="fab fa-linkedin"></i>

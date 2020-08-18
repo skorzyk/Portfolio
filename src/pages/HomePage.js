@@ -15,18 +15,22 @@ const HomePage = () => {
             Junior Front-end Developer who is looking for a job!
           </p>
           <div className="buttons__wrapper">
-            <button className="resume">
-              <a href={cv} className="resume__link" download>
-                Resume
-              </a>{' '}
-            </button>{' '}
+            <a href={cv} className="resume" download>
+              Resume
+            </a>{' '}
             <NavLink to="/contact" className="poke__link">
               <button className="poke">Say hi!</button>
             </NavLink>
           </div>
         </div>
 
-        <img src={header} alt="header" className="home__page--img" />
+        <img
+          src={header}
+          alt="my picture"
+          className="homepage__img"
+          width="600"
+          height="600"
+        />
       </div>
     </>
   );
