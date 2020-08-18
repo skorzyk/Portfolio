@@ -166,7 +166,7 @@ class ContactPage extends React.Component {
                 className="contact__desc contact__desc--link contact__desc--cv"
                 download
               >
-                Download
+                Resume
               </a>
             </div>
           </div>
