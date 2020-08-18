@@ -30,7 +30,7 @@ SwiperCore.use([Navigation, Pagination, Scrollbar, A11y]);
 const SkillsPage = () => {
   return (
     <>
-      <h1 className="skills-title">Projects</h1>
+      <h1 className="skills-title">Skills</h1>
       <Swiper
         spaceBetween={150}
         slidesPerView={1}

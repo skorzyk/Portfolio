@@ -12,7 +12,7 @@ const HomePage = () => {
           <p className="welcome">Hi there! My name is</p>
           <p className="name">Kamil Skórzyński</p>
           <p className="description">
-            Junior Front-end Developer who is looking for job!
+            Junior Front-end Developer who is looking for a job!
           </p>
           <div className="buttons__wrapper">
             <button className="resume">
