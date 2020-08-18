@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a5383294.chunk.css",
+    "main.js": "/Portfolio/static/js/main.5487426b.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.5487426b.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.e440ee5a.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e440ee5a.js.map",
+    "static/css/2.8484b046.chunk.css": "/Portfolio/static/css/2.8484b046.chunk.css",
+    "static/js/2.925752bb.chunk.js": "/Portfolio/static/js/2.925752bb.chunk.js",
+    "static/js/2.925752bb.chunk.js.map": "/Portfolio/static/js/2.925752bb.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.13cd303b4827203389a5787e07476590.js": "/Portfolio/precache-manifest.13cd303b4827203389a5787e07476590.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/2.8484b046.chunk.css.map": "/Portfolio/static/css/2.8484b046.chunk.css.map",
+    "static/css/main.a5383294.chunk.css.map": "/Portfolio/static/css/main.a5383294.chunk.css.map",
+    "static/js/2.925752bb.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.925752bb.chunk.js.LICENSE.txt",
+    "static/media/2667878.svg": "/Portfolio/static/media/2667878.5af223af.svg",
+    "static/media/CV_Kamil_Skorzynski.pdf": "/Portfolio/static/media/CV_Kamil_Skorzynski.3782da7b.pdf",
+    "static/media/alarm.png": "/Portfolio/static/media/alarm.6e798ff4.png",
+    "static/media/budget.png": "/Portfolio/static/media/budget.40a7d60a.png",
+    "static/media/canvas.png": "/Portfolio/static/media/canvas.e084de92.png",
+    "static/media/css.png": "/Portfolio/static/media/css.75e4d6d5.png",
+    "static/media/html.png": "/Portfolio/static/media/html.31039a53.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.6a4c201c.png",
+    "static/media/misiek1.png": "/Portfolio/static/media/misiek1.335496ba.png",
+    "static/media/mockup.jpg": "/Portfolio/static/media/mockup.3b0d0450.jpg",
+    "static/media/mysql.png": "/Portfolio/static/media/mysql.efd22267.png",
+    "static/media/nodejs.png": "/Portfolio/static/media/nodejs.55e83371.png",
+    "static/media/pokemony.png": "/Portfolio/static/media/pokemony.9678898d.png",
+    "static/media/programming.jpg": "/Portfolio/static/media/programming.833bbfcb.jpg",
+    "static/media/react.png": "/Portfolio/static/media/react.f297dfcd.png",
+    "static/media/sass.png": "/Portfolio/static/media/sass.a2bc8ecf.png",
+    "static/media/szkicownik.png": "/Portfolio/static/media/szkicownik.78c7d795.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e440ee5a.js",
+    "static/css/2.8484b046.chunk.css",
+    "static/js/2.925752bb.chunk.js",
+    "static/css/main.a5383294.chunk.css",
+    "static/js/main.5487426b.chunk.js"
+  ]
+}
