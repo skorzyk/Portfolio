@@ -1,6 +1,8 @@
 import React from 'react';
 import '../styles/AboutPage.css';
-import mockup from '../images/mockup.jpg';
+import mockupSmall from '../images/mockup_300x300.jpg';
+import mockupMedium from '../images/mockup_800x800.jpg';
+import mockupBig from '../images/mockup_1200x1200.jpg';
 
 const AboutPage = () => {
   return (
@@ -36,7 +38,8 @@ const AboutPage = () => {
           </div>
         </div>
         <img
-          src={mockup}
+          srcSet={`${mockupSmall} 300w, ${mockupMedium} 800w, ${mockupBig} 1200w`}
+          src={mockupBig}
           alt="mockup"
           className="mockup"
           width="600"

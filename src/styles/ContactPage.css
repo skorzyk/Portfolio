@@ -101,6 +101,8 @@ form {
 
 .button__contact:disabled {
   cursor: default;
+  opacity: 0.7;
+  border: 1px solid #aaa;
 }
 
 .button__contact:hover {
@@ -115,7 +117,7 @@ form {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .single__contact {
@@ -138,6 +140,7 @@ form {
 }
 .contact__desc--link {
   cursor: pointer;
+  transition: 0.2s ease-in;
 }
 .contact__desc--cv {
   color: goldenrod;

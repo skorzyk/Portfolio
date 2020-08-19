@@ -54,20 +54,18 @@
   font-family: inherit;
   width: 100px;
   height: 40px;
+  color: #fff;
+  font-family: inherit;
+  text-decoration: none;
+  font-size: 1.6rem;
+  text-align: center;
+  line-height: 40px;
   border: 1px solid #c6161c;
   border-radius: 20px;
   font-size: 1.6rem;
   margin: 1rem 1rem;
   cursor: pointer;
   transition: 0.2s ease-in;
-}
-
-.button-live a {
-  display: block;
-  color: #fff;
-  font-family: inherit;
-  text-decoration: none;
-  font-size: 1.6rem;
 }
 
 .button-live:hover {
@@ -79,19 +77,18 @@
   font-family: inherit;
   width: 100px;
   height: 40px;
+  color: #fff;
+  font-family: inherit;
+  text-decoration: none;
+  font-size: 1.6rem;
+  text-align: center;
+  line-height: 40px;
   border: 1px solid #c6161c;
   border-radius: 20px;
   font-size: 1.6rem;
   margin: 1rem 1rem;
   cursor: pointer;
   transition: 0.2s ease-in;
-}
-.button-code a {
-  display: block;
-  color: #fff;
-  font-family: inherit;
-  text-decoration: none;
-  font-size: 1.6rem;
 }
 
 .button-code:hover {
@@ -139,17 +136,17 @@
   .button-live {
     width: 130px;
     height: 45px;
-  }
-  .button-live a {
+    line-height: 45px;
     font-size: 2rem;
   }
+
   .button-code {
     width: 130px;
     height: 45px;
-  }
-  .button-code a {
     font-size: 2rem;
+    line-height: 45px;
   }
+
   .img-icons-last {
     width: 60px;
     height: 60px;
@@ -169,18 +166,14 @@
   .button-live {
     width: 170px;
     height: 55px;
+    font-size: 2.6rem;
+    line-height: 55px;
   }
 
-  .button-live a {
-    font-size: 2.6rem;
-  }
   .button-code {
     width: 170px;
     height: 55px;
     font-size: 2.6rem;
-  }
-
-  .button-code a {
-    font-size: 2.6rem;
+    line-height: 55px;
   }
 }

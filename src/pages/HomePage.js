@@ -18,8 +18,8 @@ const HomePage = () => {
             <a href={cv} className="resume" download>
               Resume
             </a>{' '}
-            <NavLink to="/contact" className="poke__link">
-              <button className="poke">Say hi!</button>
+            <NavLink to="/contact" className="poke__link poke">
+              Say hi!
             </NavLink>
           </div>
         </div>

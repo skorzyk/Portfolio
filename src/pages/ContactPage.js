@@ -130,8 +130,9 @@ class ContactPage extends React.Component {
           />
           <div className="medias__contact">
             <div className="single__contact">
-              <i class="fas fa-envelope-open-text"></i>
+              <div class="fas fa-envelope-open-text"></div>
               <a
+                target={`_blank`}
                 href="mailto:skorzynskikamil@gmail.com"
                 className="contact__desc contact__desc--link"
               >
@@ -139,7 +140,7 @@ class ContactPage extends React.Component {
               </a>
             </div>
             <div className="single__contact">
-              <i class="fas fa-phone-volume"></i>
+              <div class="fas fa-phone-volume"></div>
               <a
                 href="tel:794-198-169"
                 className="contact__desc contact__desc--link"
@@ -148,8 +149,9 @@ class ContactPage extends React.Component {
               </a>
             </div>
             <div className="single__contact">
-              <i class="fab fa-linkedin"></i>
+              <div class="fab fa-linkedin"></div>
               <a
+                target={`_blank`}
                 href="https://www.linkedin.com/in/kamil-sk%C3%B3rzy%C5%84ski-a30a5415b/"
                 className="contact__desc contact__desc--link"
               >
@@ -157,8 +159,9 @@ class ContactPage extends React.Component {
               </a>
             </div>
             <div className="single__contact">
-              <i class="fab fa-github"></i>
+              <div class="fab fa-github"></div>
               <a
+                target={`_blank`}
                 href="https://github.com/skorzyk"
                 className="contact__desc contact__desc--link"
               >
@@ -166,11 +169,11 @@ class ContactPage extends React.Component {
               </a>
             </div>
             <div className="single__contact">
-              <i class="fas fa-map-pin"></i>
+              <div class="fas fa-map-pin"></div>
               <p className="contact__desc">Cracow</p>
             </div>
             <div className="single__contact">
-              <i class="fas fa-file"></i>
+              <div class="fas fa-file"></div>
               <a
                 href={cv}
                 className="contact__desc contact__desc--link contact__desc--cv"
