@@ -96,11 +96,10 @@ form {
   border: 1px solid #c6161c;
   border-radius: 20px;
   font-size: 1.6rem;
-  margin: 1rem 1rem;
   cursor: pointer;
   transition: 0.2s ease-in;
   display: block;
-  margin: 1rem 3rem;
+  margin: 2rem 3rem 1rem 3rem;
 }
 
 .button__contact:disabled {

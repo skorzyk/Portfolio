@@ -46,7 +46,7 @@
   max-height: 600px;
   max-width: 600px;
   margin-top: 2rem;
-  border-radius: 30px;
+  border-radius: 20px;
 }
 
 @media (min-width: 860px) {
