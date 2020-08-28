@@ -16,6 +16,9 @@ import alarmBig from '../images/alarm_1200x578.jpg';
 import programmingSmall from '../images/programming_360x279.jpg';
 import programmingMedium from '../images/programming_860x573.jpg';
 import programmingBig from '../images/programming_1200x800.jpg';
+import photoTimeSmall from '../images/phototime_300x146.jpg';
+import photoTimeMedium from '../images/phototime_800x391.jpg';
+import photoTimeBig from '../images/phototime_1200x587.jpg';
 import html5 from '../images/icons/html.png';
 import js from '../images/icons/javascript.png';
 import css from '../images/icons/css.png';
@@ -49,6 +52,45 @@ const SkillsPage = () => {
           pagination={{ clickable: true }}
           scrollbar={{ draggable: true }}
         >
+          <SwiperSlide>
+            <div className="slide-wrapper">
+              <h2 className="slide-title">Phototime Page</h2>
+              <img
+                srcSet={`${photoTimeSmall} 360w, ${photoTimeMedium} 860w, ${photoTimeBig} 1200w`}
+                src={photoTimeBig}
+                alt="phototime page image"
+                className="img-skills"
+                width="980"
+                height="480"
+              />
+              <p className="slide-desc">
+                Website design built using Bootstrap, flex. Fully responsive.
+              </p>
+              <div className="img-wrapper">
+                <img src={html5} alt="html" className="img-icons" />
+                <img src={js} alt="js" className="img-icons" />
+                <img src={css} alt="css" className="img-icons" />
+                <img src={bootstrap} alt="bootstrap" className="img-icons" />
+              </div>
+              <div className="buttom-wrapper">
+                <a
+                  target={`_blank`}
+                  href="https://skorzyk.github.io/Bootstrap-Page/"
+                  className="button-live"
+                >
+                  Live
+                </a>
+
+                <a
+                  target={`_blank`}
+                  href="https://github.com/skorzyk/Bootstrap-Page"
+                  className="button-code"
+                >
+                  Code
+                </a>
+              </div>
+            </div>
+          </SwiperSlide>
           <SwiperSlide>
             <div className="slide-wrapper">
               <h2 className="slide-title">Pokemons Catalog</h2>
