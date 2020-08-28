@@ -64,7 +64,8 @@ const SkillsPage = () => {
                 height="480"
               />
               <p className="slide-desc">
-                Website design built using Bootstrap, flex. Fully responsive.
+                Website design built using Bootstrap, flex. The AOS library was
+                used for the animation. Fully responsive.
               </p>
               <div className="img-wrapper">
                 <img src={html5} alt="html" className="img-icons" />
