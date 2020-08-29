@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fae5deed713843041157a51596c34f1",
+    "revision": "4cf611b5c55d2c806f0795546e041a9c",
     "url": "/Portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/css/2.8484b046.chunk.css"
   },
   {
-    "revision": "fa3c3e968aaa39a17013",
-    "url": "/Portfolio/static/css/main.67c93374.chunk.css"
+    "revision": "60b9842c9e296fe6137d",
+    "url": "/Portfolio/static/css/main.9c2868be.chunk.css"
   },
   {
     "revision": "571188fe7614beaa58aa",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/js/2.cc40bbda.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa3c3e968aaa39a17013",
-    "url": "/Portfolio/static/js/main.d3c44f9a.chunk.js"
+    "revision": "60b9842c9e296fe6137d",
+    "url": "/Portfolio/static/js/main.b47fb88b.chunk.js"
   },
   {
     "revision": "b83a37198ba343383876",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/2667878.5af223af.svg"
   },
   {
-    "revision": "3782da7b9cc617c818d83d1e657b0fbe",
-    "url": "/Portfolio/static/media/CV_Kamil_Skorzynski.3782da7b.pdf"
+    "revision": "a80ac79974aa757d79ce752d0411e316",
+    "url": "/Portfolio/static/media/CV_Kamil_Skorzynski.a80ac799.pdf"
   },
   {
     "revision": "ca820d7da239514f7acb7c4200e4fdfa",

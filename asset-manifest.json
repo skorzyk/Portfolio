@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.67c93374.chunk.css",
-    "main.js": "/Portfolio/static/js/main.d3c44f9a.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.d3c44f9a.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.9c2868be.chunk.css",
+    "main.js": "/Portfolio/static/js/main.b47fb88b.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.b47fb88b.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.e440ee5a.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e440ee5a.js.map",
     "static/css/2.8484b046.chunk.css": "/Portfolio/static/css/2.8484b046.chunk.css",
     "static/js/2.cc40bbda.chunk.js": "/Portfolio/static/js/2.cc40bbda.chunk.js",
     "static/js/2.cc40bbda.chunk.js.map": "/Portfolio/static/js/2.cc40bbda.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.89e2bef0511cc3adabb6ecf18542de0f.js": "/Portfolio/precache-manifest.89e2bef0511cc3adabb6ecf18542de0f.js",
+    "precache-manifest.1fe838b47ce280e73af51b55e44d6466.js": "/Portfolio/precache-manifest.1fe838b47ce280e73af51b55e44d6466.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/2.8484b046.chunk.css.map": "/Portfolio/static/css/2.8484b046.chunk.css.map",
-    "static/css/main.67c93374.chunk.css.map": "/Portfolio/static/css/main.67c93374.chunk.css.map",
+    "static/css/main.9c2868be.chunk.css.map": "/Portfolio/static/css/main.9c2868be.chunk.css.map",
     "static/js/2.cc40bbda.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.cc40bbda.chunk.js.LICENSE.txt",
     "static/media/2667878.svg": "/Portfolio/static/media/2667878.5af223af.svg",
-    "static/media/CV_Kamil_Skorzynski.pdf": "/Portfolio/static/media/CV_Kamil_Skorzynski.3782da7b.pdf",
+    "static/media/CV_Kamil_Skorzynski.pdf": "/Portfolio/static/media/CV_Kamil_Skorzynski.a80ac799.pdf",
     "static/media/alarm_1200x578.jpg": "/Portfolio/static/media/alarm_1200x578.ca820d7d.jpg",
     "static/media/alarm_860x414.jpg": "/Portfolio/static/media/alarm_860x414.650ec081.jpg",
     "static/media/budget_1200x583.jpg": "/Portfolio/static/media/budget_1200x583.3cd0f834.jpg",
@@ -49,7 +49,7 @@
     "static/js/runtime-main.e440ee5a.js",
     "static/css/2.8484b046.chunk.css",
     "static/js/2.cc40bbda.chunk.js",
-    "static/css/main.67c93374.chunk.css",
-    "static/js/main.d3c44f9a.chunk.js"
+    "static/css/main.9c2868be.chunk.css",
+    "static/js/main.b47fb88b.chunk.js"
   ]
 }
