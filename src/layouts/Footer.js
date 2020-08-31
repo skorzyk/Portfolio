@@ -28,7 +28,7 @@ const Footer = () => {
             <div class="fab fa-github icons__link"></div>
           </a>
         </div>
-        <p className="footer__desc">Copyrigth @ Kamil Skórzyński 2020</p>
+        <p className="footer__desc">Copyright @ Kamil Skórzyński 2020</p>
       </div>
     </>
   );
