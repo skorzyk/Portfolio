@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.9c2868be.chunk.css",
-    "main.js": "/Portfolio/static/js/main.20c7a0d2.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.20c7a0d2.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.c85c3c7b.chunk.css",
+    "main.js": "/Portfolio/static/js/main.b0f1a7ba.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.b0f1a7ba.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.e440ee5a.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e440ee5a.js.map",
     "static/css/2.8484b046.chunk.css": "/Portfolio/static/css/2.8484b046.chunk.css",
-    "static/js/2.cc40bbda.chunk.js": "/Portfolio/static/js/2.cc40bbda.chunk.js",
-    "static/js/2.cc40bbda.chunk.js.map": "/Portfolio/static/js/2.cc40bbda.chunk.js.map",
+    "static/js/2.2ff4c44f.chunk.js": "/Portfolio/static/js/2.2ff4c44f.chunk.js",
+    "static/js/2.2ff4c44f.chunk.js.map": "/Portfolio/static/js/2.2ff4c44f.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.a8d1802ace279ce081bbede62c5ed0f8.js": "/Portfolio/precache-manifest.a8d1802ace279ce081bbede62c5ed0f8.js",
+    "precache-manifest.2cb4163523e95befe137ac55402ade4d.js": "/Portfolio/precache-manifest.2cb4163523e95befe137ac55402ade4d.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/2.8484b046.chunk.css.map": "/Portfolio/static/css/2.8484b046.chunk.css.map",
-    "static/css/main.9c2868be.chunk.css.map": "/Portfolio/static/css/main.9c2868be.chunk.css.map",
-    "static/js/2.cc40bbda.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.cc40bbda.chunk.js.LICENSE.txt",
+    "static/css/main.c85c3c7b.chunk.css.map": "/Portfolio/static/css/main.c85c3c7b.chunk.css.map",
+    "static/js/2.2ff4c44f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.2ff4c44f.chunk.js.LICENSE.txt",
     "static/media/2667878.svg": "/Portfolio/static/media/2667878.5af223af.svg",
-    "static/media/CV_Kamil_Skorzynski.pdf": "/Portfolio/static/media/CV_Kamil_Skorzynski.a80ac799.pdf",
+    "static/media/CV_Kamil_Skorzynski.pdf": "/Portfolio/static/media/CV_Kamil_Skorzynski.9b25a945.pdf",
     "static/media/alarm_1200x578.jpg": "/Portfolio/static/media/alarm_1200x578.ca820d7d.jpg",
     "static/media/alarm_860x414.jpg": "/Portfolio/static/media/alarm_860x414.650ec081.jpg",
     "static/media/budget_1200x583.jpg": "/Portfolio/static/media/budget_1200x583.3cd0f834.jpg",
@@ -48,8 +48,8 @@
   "entrypoints": [
     "static/js/runtime-main.e440ee5a.js",
     "static/css/2.8484b046.chunk.css",
-    "static/js/2.cc40bbda.chunk.js",
-    "static/css/main.9c2868be.chunk.css",
-    "static/js/main.20c7a0d2.chunk.js"
+    "static/js/2.2ff4c44f.chunk.js",
+    "static/css/main.c85c3c7b.chunk.css",
+    "static/js/main.b0f1a7ba.chunk.js"
   ]
 }
