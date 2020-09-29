@@ -5,6 +5,7 @@ div.app {
   color: white;
   width: 100%;
   background-color: #030303;
+  overflow-x: hidden;
 }
 
 .navigation {

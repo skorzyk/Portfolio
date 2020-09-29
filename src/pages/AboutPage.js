@@ -7,7 +7,7 @@ import mockupBig from '../images/mockup_1200x1200.jpg';
 const AboutPage = () => {
   return (
     <>
-      <div className="about">
+      <div className="about swing-in-bottom-fwd">
         <div className="wrapper-about">
           <h1 className="about-title">
             About <span className="title-span">me</span>
@@ -41,7 +41,7 @@ const AboutPage = () => {
           srcSet={`${mockupSmall} 300w, ${mockupMedium} 800w, ${mockupBig} 1200w`}
           src={mockupBig}
           alt="mockup"
-          className="mockup"
+          className="mockup swing-in-bottom-fwd"
           width="600"
           height="600"
         />

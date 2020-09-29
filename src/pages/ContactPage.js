@@ -55,7 +55,11 @@ class ContactPage extends React.Component {
     return (
       <>
         <div className="contact">
-          <form action="https://formspree.io/meqrwoza" method="POST">
+          <form
+            action="https://formspree.io/meqrwoza"
+            method="POST"
+            className="slide-in-left"
+          >
             <h3 className="form__title">Say hi!</h3>
             <div className="input__wrapper">
               <input
@@ -128,7 +132,7 @@ class ContactPage extends React.Component {
             }
             message="You have not completed the form. Are you sure you want to leave this page?"
           />
-          <div className="medias__contact">
+          <div className="medias__contact slide-in-right">
             <div className="single__contact">
               <div class="fas fa-envelope-open-text"></div>
               <a

@@ -8,7 +8,7 @@ const HomePage = () => {
   return (
     <>
       <div className="wrapper">
-        <div className="description__wrapper">
+        <div className="description__wrapper slide-in-left">
           <p className="welcome">Hi there! My name is</p>
           <p className="name">Kamil Skórzyński</p>
           <p className="description">
@@ -27,7 +27,7 @@ const HomePage = () => {
         <img
           src={header}
           alt="my picture"
-          className="homepage__img"
+          className="homepage__img slide-in-right"
           width="600"
           height="600"
         />

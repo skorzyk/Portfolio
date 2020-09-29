@@ -43,7 +43,7 @@ SwiperCore.use([Navigation, Pagination, Scrollbar, A11y]);
 const SkillsPage = () => {
   return (
     <>
-      <div className="skills__container">
+      <div className="skills__container scale-in-hor-left">
         <h1 className="skills-title">Skills</h1>
         <Swiper
           spaceBetween={150}
