@@ -67,10 +67,14 @@ form {
   transition: 0.3s ease-in;
 }
 
-.input__contact:placeholder-shown + .input__label {
+/* .input__contact:placeholder-shown + .input__label {
   opacity: 0;
   visibility: hidden;
   transform: translateY(2rem);
+} */
+
+.input__contact:placeholder-shown {
+  color: red;
 }
 
 .textarea__contact {
