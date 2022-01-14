@@ -1,14 +1,14 @@
-import React from 'react';
-import { Prompt } from 'react-router-dom';
-import '../styles/ContactPage.css';
-import cv from '../images/CV_Kamil_Skorzynski.pdf';
+import React from "react";
+import { Prompt } from "react-router-dom";
+import "../styles/ContactPage.css";
+import cv from "../images/CV_Kamil_Skorzynski.pdf";
 
 class ContactPage extends React.Component {
   state = {
-    textAreaValue: '',
-    nameValue: '',
-    emailValue: '',
-    subjectValue: '',
+    textAreaValue: "",
+    nameValue: "",
+    emailValue: "",
+    subjectValue: "",
   };
 
   handleSubmit = (e) => {
@@ -20,10 +20,10 @@ class ContactPage extends React.Component {
       this.state.textAreaValue
     )
       this.setState({
-        textAreaValue: '',
-        nameValue: '',
-        emailValue: '',
-        subjectValue: '',
+        textAreaValue: "",
+        nameValue: "",
+        emailValue: "",
+        subjectValue: "",
       });
   };
   handleChangeNameInput = (e) => {
@@ -134,7 +134,7 @@ class ContactPage extends React.Component {
           />
           <div className="medias__contact slide-in-right">
             <div className="single__contact">
-              <div class="fas fa-envelope-open-text"></div>
+              <div className="fas fa-envelope-open-text"></div>
               <a
                 target={`_blank`}
                 href="mailto:skorzynskikamil@gmail.com"
@@ -144,7 +144,7 @@ class ContactPage extends React.Component {
               </a>
             </div>
             <div className="single__contact">
-              <div class="fas fa-phone-volume"></div>
+              <div className="fas fa-phone-volume"></div>
               <a
                 href="tel:794-198-169"
                 className="contact__desc contact__desc--link"
@@ -153,7 +153,7 @@ class ContactPage extends React.Component {
               </a>
             </div>
             <div className="single__contact">
-              <div class="fab fa-linkedin"></div>
+              <div className="fab fa-linkedin"></div>
               <a
                 target={`_blank`}
                 href="https://www.linkedin.com/in/kamil-sk%C3%B3rzy%C5%84ski-a30a5415b/"
@@ -163,7 +163,7 @@ class ContactPage extends React.Component {
               </a>
             </div>
             <div className="single__contact">
-              <div class="fab fa-github"></div>
+              <div className="fab fa-github"></div>
               <a
                 target={`_blank`}
                 href="https://github.com/skorzyk"
@@ -173,11 +173,11 @@ class ContactPage extends React.Component {
               </a>
             </div>
             <div className="single__contact">
-              <div class="fas fa-map-pin"></div>
+              <div className="fas fa-map-pin"></div>
               <p className="contact__desc">Cracow</p>
             </div>
             <div className="single__contact">
-              <div class="fas fa-file"></div>
+              <div className="fas fa-file"></div>
               <a
                 href={cv}
                 className="contact__desc contact__desc--link contact__desc--cv"

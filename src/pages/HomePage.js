@@ -1,8 +1,8 @@
-import React from 'react';
-import { NavLink } from 'react-router-dom';
-import '../styles/HomePage.css';
-import header from '../images/misiek1.png';
-import cv from '../images/CV_Kamil_Skorzynski.pdf';
+import React from "react";
+import { NavLink } from "react-router-dom";
+import "../styles/HomePage.css";
+import header from "../images/misiek1.png";
+import cv from "../images/CV_Kamil_Skorzynski.pdf";
 
 const HomePage = () => {
   return (
@@ -17,7 +17,7 @@ const HomePage = () => {
           <div className="buttons__wrapper">
             <a href={cv} className="resume" download>
               Resume
-            </a>{' '}
+            </a>{" "}
             <NavLink to="/contact" className="poke__link poke">
               Say hi!
             </NavLink>
@@ -26,7 +26,7 @@ const HomePage = () => {
 
         <img
           src={header}
-          alt="my picture"
+          alt="Kamil Skórzyński"
           className="homepage__img slide-in-right"
           width="600"
           height="600"

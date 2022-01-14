@@ -8,6 +8,33 @@
   max-height: 900px;
 }
 
+.swiper-pagination-bullet {
+  background-color: #dedede;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #c6161c;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cacaca;
+  border-radius: 50%;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 24px;
+  font-weight: 600;
+  color: #c6161c;
+}
+
 .skills-title {
   text-align: center;
   font-size: 4rem;

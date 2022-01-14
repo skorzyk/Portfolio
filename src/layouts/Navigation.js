@@ -1,11 +1,11 @@
-import React from 'react';
-import { NavLink } from 'react-router-dom';
-import '../styles/Navigation.css';
+import React from "react";
+import { NavLink } from "react-router-dom";
+import "../styles/Navigation.css";
 
 const Navigation = () => {
   return (
-    <nav class="menu">
-      <ul class="menu__items">
+    <nav className="menu">
+      <ul className="menu__items">
         <li className="menu__item">
           <NavLink to="/" exact className="menu__link">
             Home
